@@ -12,6 +12,7 @@ public class HelloWorld {
     System.out.println("Hello world!");
   }
 }
+
 ```
 
 Notice that `System.out.println("Hello world!");` shows the string `"Hello world!"` on the screen.
